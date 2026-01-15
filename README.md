@@ -1,6 +1,6 @@
-👋 Hey, I'm a software engineer specializing in building scalable, event-driven systems—mainly in C# and .NET. Over the years, I’ve architected microservices, crafted APIs, and delivered robust solutions for banking, fintech, messaging, and more.
+Hey, I'm a software engineer specializing in building scalable applications in C# and .NET. Over the years, I’ve crafted APIs and delivered solutions for banking, fintech, messaging, and more.
 
-**My top skills:**
+**Skills:**
 - Backend: C#, ASP.NET MVC/Core, WCF (SOAP), REST, GraphQL, Entity Framework Core, Dapper
 - Frontend: Silverlight, XAML, Prism, JavaScript, HTML, CSS, SignalR
 - Mobile: Xamarin, .NET MAUI
@@ -8,9 +8,9 @@
 - DevOps: Docker, Caprover
 - Messaging: RabbitMQ, MassTransit, Kafka, ISO 8583, WebSockets
 - Security: OAuth, OpenID Connect, JWT
-- Cloud: AWS, Azure
+- Cloud: AWS, Azure, GCP
 
-**Projects I’m proud of:**
+**Projects:**
 - Lead engineer: .NET Core Banking System for 55+ SACCOs in Kenya
 - Mobile Banking API: Secure, real-time transaction backend
 - Bulk SMS Gateway: Handles high-volume transactional/promotional SMS
@@ -18,6 +18,10 @@
 - Agency & Internet Banking: Agent-based digital channels and portals
 - CRB, PesaLink, ATM, RIA integrations: Real-time, resilient banking APIs
 - SIEM: ELK stack for monitoring 55+ financial institutions
+
+**Certifications:**
+- PMP
+- Microsoft Certified: Azure Fundamentals (AZ900)
 
 **Fun facts:**  
 When I’m not coding, you’ll find me carving up twisty roads on my sport bike, swimming, shooting, or training martial arts.
